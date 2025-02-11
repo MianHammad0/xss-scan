@@ -2,12 +2,13 @@
 A simple tool to detect XSS vulnerabilities in websites.
 
 ## Usage
-1. Clone the repo: ```git clone https://github.com/YourGitHubUsername/xss-detector.git```
+1. Clone the repo: ```https://github.com/MianHammad0/xss-scan.git```
 
-2. ```cd xss-detector```
+2. ```cd xss-scan```
 
 3. ```pip install requirements.txt```
 
-4. ```python xss_detector.py "https://example.com/?search=" ``
+4. ```python xss_scnar.py "https://example.com/?search=" ``
+
 
 
