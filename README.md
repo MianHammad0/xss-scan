@@ -8,7 +8,7 @@ A simple tool to detect XSS vulnerabilities in websites.
 
 3. ```cd xss-scan```
 
-4. ```pip install requirements.txt```
+4. ```python3 -m pip install -r requirements.txt```
 
 5. ```python xss_scnar.py "https://example.com/?search=" ```
 
